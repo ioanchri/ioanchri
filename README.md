@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Giannis, a Frontend Developer working with React.<br>🌱 I love learning new languages, exploring new technologies, and building clean, user-friendly interfaces.<br>⚡ Always growing, always creating.
+👋 Hi! I'm Giannis, a Frontend Developer with MSc in Web & Mobile Development working with React.<br>🌱 I love learning new languages, exploring new technologies, and building clean, user-friendly interfaces.<br>⚡ Always growing, always creating.
 
 
 ## 🌐 Socials:
